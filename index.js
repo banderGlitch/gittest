@@ -48,3 +48,15 @@
 
 //----- github.com-personal → personal SSH key → personal GitHub account
 // github.com-work     → work SSH key → work GitHub account
+
+// git status
+
+
+// What changed
+
+// What is staged
+
+// What is not
+
+
+
